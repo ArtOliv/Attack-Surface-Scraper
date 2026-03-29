@@ -1,5 +1,9 @@
 # 🕷️ Attack Surface Scraper
 
+**Languages:** [Portuguese](README.md) | [English](README.en.md)
+
+---
+
 Crawler com Scrapy desenvolvido para ser uma `passive reconnaissance tool` para coleta de informações públicas de websites com foco em **mapeamento de superfície de ataque**.
 
 ---
