@@ -86,17 +86,19 @@ https://example.com
 https://test.vulnweb.com
 ```
 
----
+### 2. Passe para a pasta do crawler
 
-### 2. Execute o crawler
+```bash
+cd attack_suraface
+```
+
+### 3. Execute o crawler
 
 ```bash
 scrapy crawl atksurf
 ```
 
----
-
-### 3. Output
+### 4. Output
 
 Os dados serão salvos automaticamente em:
 
